@@ -39,8 +39,8 @@
 <p align="center">
   <a href="https://github.com/Dwarakesh-1"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Dwarakesh-1&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=Dwarakesh-1r&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dwarakesh-1&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
 </p>
   
@@ -49,7 +49,7 @@
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kiransagar1&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Dwarakesh-1&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
 
